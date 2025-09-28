@@ -63,5 +63,3 @@ The notebook contains all the steps, from data loading and preprocessing to mode
 The model was trained for 25 epochs. The training and validation loss curves show that the model generalizes well to the unseen data and does not exhibit signs of overfitting.
 
 ![Training and Validation Loss](loss.png)
-
-*(This assumes you will add the loss graph image to your GitHub repository with this file name)*
